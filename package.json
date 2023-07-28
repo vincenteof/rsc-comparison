@@ -1,0 +1,12 @@
+{
+	"name": "rsc-comparison",
+	"private": true,
+	"author": "vincenteof",
+	"scripts": {
+		"dev": "turbo run dev",
+		"build": "turbo run build"
+	},
+	"devDependencies": {
+		"turbo": "^1.10.12"
+	}
+}
